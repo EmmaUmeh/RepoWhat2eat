@@ -6,7 +6,6 @@ import About from './pages/About.jsx';
 import Menu from './pages/Menu.jsx';
 import Contact from './pages/Contact.jsx';
 
-
 function App() {
 
   return (
